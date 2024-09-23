@@ -17,10 +17,10 @@
 # 
 # Love Technologies
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+[![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square)](https://isocpp.org/)
+[![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)](https://www.java.com/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)](https://www.postgresql.org/)
+[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)](https://gitlab.com/pavuktunya)
 # 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antilopinae&layout=compact&theme=blue-green)
@@ -67,6 +67,7 @@ Languages And Tools:
 #
 ## Contact me
 <p style="margin:3% 0%" align="center">
+<a href="https://gitlab.com/pavuktunya" target="blank"><img align="center" src="sources/gitlab-logo.svg" alt="https://gitlab.com/pavuktunya" height="90" width="90" /></a>
 <a href="https://t.me/antilopinae" target="blank"><img align="center" src="sources/telegram.png" alt="https://t.me/antilopinae" height="30" width="30" /></a>
 <a href="https://discord.gg/RrVDR8pkUJ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/RrVDR8pkUJ" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@dart_slon5843" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@dart_slon5843" height="30" width="40" /></a>
