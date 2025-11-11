@@ -3,11 +3,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=40&duration=3000&pause=250&color=07F73D&center=true&multiline=true&width=600&height=120&lines=Computer+science+student;Software+developer+from+Russia." alt="Typing SVG" /></img>
 
 I'm Systems C/C++ Engineer and 3rd-year Applied Mathematics & Informatics student.
-I have over 2 years of experience in designing high-performance systems, Linux/Unix system programming, and game development.
+I love Linux/Unix system programming, and game development.
 
-- 🌱 I’m currently learning and mastering **C++** and **C**.
-- 🌍 I speak Russian (native) and English.
-- 🤝 Always open to collaborating on projects and innovative/disruptive ideas.
+- 🌱 I’m currently speaking **C++** and **C** in Unix systems
+- 🌍 I speak Russian (native) and English
+- 🤝 Always open to collaborating on projects
 
 <img src="https://readme-jokes.vercel.app/api?theme=blue-green" alt="Jokes Card" align="center" style="vertical-align:middle;margin:5% 20%"/>
 
