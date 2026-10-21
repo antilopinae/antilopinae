@@ -2,7 +2,7 @@
 <a href="https://github.com/antilopinae" target="_blank" style="color:#eef4ed;font-size:100%;background-color:0b2545;margin:3% 0%">(っ◔◡◔)っ ♥ Mikhail ♥ </a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=40&duration=3000&pause=250&color=07F73D&center=true&multiline=true&width=600&height=120&lines=Computer+science+student;Software+developer+from+Russia." alt="Typing SVG" /></img>
 
-I'm Systems C/C++ Engineer and 3rd-year Applied Mathematics & Informatics student.
+I'm Systems C/C++ Engineer and 4rd-year Applied Mathematics & Informatics student.
 I love Linux/Unix system programming, and game development.
 
 - 🌱 I’m currently speaking **C++** and **C** in Unix systems
